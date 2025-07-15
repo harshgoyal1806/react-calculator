@@ -22,5 +22,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
-- React and Vite documentation
+- Vite documentation
+- React documentation
 - Tailwind CSS documentation and community
